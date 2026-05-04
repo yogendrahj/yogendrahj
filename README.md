@@ -1,12 +1,13 @@
-Hi there 👋
-I am Yogendra,
+🚀 With 9+ years of hands-on experience in Platform, Cloud, and DevSecOps Engineering, I’ve built and scaled solutions across Banking, Fintech, and Retail industries. My journey has taken me from managing virtual machines to architecting modern cloud-native systems—giving me a solid foundation in IT infrastructure and its continuous evolution.
 
-Brief intro about me:
 
-I started my IT career in 2016 and been learning everyday and working on improvising myself.
 
-Started as a Linux Admin, soon got an exposure to AWS platform and been a great learning and experiement so far.
+🛠️ My tech stack spans AWS, Azure, Cloud FinOps, Docker, Kubernetes, GitHub Actions, GitLab, Ansible, Python, Shell scripting, Linux, Windows, and automation frameworks. I’m also experienced with security, monitoring, and observability tools essential for building resilient platforms.
 
-AWS Community Builder, SA Pro and SAA Certified, Az-900 Certified, multi Cloud enthusiast.
 
-Loving DevOps and learning in depth to become Cloud and DevOps Architect.
+
+💡 I’ve led and delivered high-impact projects, driven continuous service improvements, and served as a trusted advisor to Architects and Engineering leaders.
+
+
+
+Let’s connect! Open to conversations—whether it’s tech, trends, or future opportunities.
